@@ -1,6 +1,6 @@
-# Vladimir Chupakhin
-# chupvl@gmail.com
-# University of Strasbourg, Strasbourg, France
+Vladimir Chupakhin
+chupvl@gmail.com
+University of Strasbourg, Strasbourg, France
 
 SILIRID
 =======
